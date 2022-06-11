@@ -1,1 +1,3 @@
-# grocery-app-db
+# Grocery-App-DB
+
+## Database service for Grocery App.
